@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407397495642",
+    "project_id": "hitaishi-14fad",
+    "storage_bucket": "hitaishi-14fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407397495642:android:8915ebc094827a7fdf3963",
+        "android_client_info": {
+          "package_name": "com.example.hitaishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407397495642-7lqvl186lk8osrqfhlrfe64kit2e95p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitaishi",
+            "certificate_hash": "6bdf4545f15b19da6fd93489e77f7390e8bc463c"
+          }
+        },
+        {
+          "client_id": "407397495642-s15sf0mmn5udgrijrji8kf7vpcp5fg6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3eLYoG3YouoJCrCk1XJ00btTuNeqLB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407397495642-s15sf0mmn5udgrijrji8kf7vpcp5fg6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
